@@ -28,7 +28,7 @@ The **City Explorer App** is an Android application that allows users to explore
 You can watch a demo of the City Explorer App in action:
 
 <video controls width="640">
-  <source src="screenshots/demo.webm" type="video/webm">
+  <source src="https://github.com/shwetapande10/bupaCodingChallenge/blob/main/screenshots/demo.webm" type="video/webm">
   Your browser does not support the video tag.
 </video>
 
