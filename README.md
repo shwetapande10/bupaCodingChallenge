@@ -9,8 +9,8 @@ The **City Explorer App** is an Android application that allows users to explore
 - [Screenshots](#screenshots)
 - [Getting Started](#getting-started)
 - [Prerequisites](#prerequisites)
-- [Running Android Tests](#android-tests)
-- [Running Unit Tests](#unit-tests)
+- [Running Android Tests](#running-android-tests)
+- [Running Unit Tests](#running-unit-tests)
 - [Installation](#installation)
 - [Usage](#usage)
 
