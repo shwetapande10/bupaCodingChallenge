@@ -45,7 +45,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 - Android SDK with API level 33 or higher
 
 
-### Running Android Tests (UI Tests)
+### Running Android Tests
 
 1. Start an Android Emulator or Connect a Device: Ensure you have an Android emulator running or a physical device connected.
 2. Navigate to androidTests: In the "Project" view. 
