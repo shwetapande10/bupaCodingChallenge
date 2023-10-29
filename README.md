@@ -27,7 +27,8 @@ The **City Explorer App** is an Android application that allows users to explore
 
 You can watch a demo of the City Explorer App in action:
 
-https://github.com/shwetapande10/bupaCodingChallenge/assets/8776727/dd405a1a-c857-47fa-9ae2-e1fbf57d5719
+https://github.com/shwetapande10/bupaCodingChallenge/assets/8776727/cc826336-3e2a-4f77-834a-b5749399e8fe
+
 
 ## Screenshots
 
